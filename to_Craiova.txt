@@ -1,0 +1,20 @@
+Arad, 132
+Bucuresti, 91
+Craiova, 0
+Drobeta, 48
+Eforie, 194
+Fagaras, 96
+Giurgiu, 90
+Hirsova, 166
+Iasi, 215
+Lugoj, 106
+Mehadia, 65
+Neamt, 181
+Oradea, 168
+Pitesti, 52
+Ramnicu Valcea, 49
+Sibiu, 88
+Timisoara, 128
+Urziceni, 197
+Vaslui, 197
+Zerind, 156
